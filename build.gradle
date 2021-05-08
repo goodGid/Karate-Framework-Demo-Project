@@ -6,7 +6,6 @@ plugins {
 
 ext {
     karateVersion = '1.0.0'
-    karateCoreVersion = '1.0.0'
 }
 
 group = 'dev.be'
