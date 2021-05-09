@@ -44,6 +44,7 @@ Feature: Create Value
     When method post
     Then status 200
 
+    And match response == expected
     And match response contains expected
     And match $.key == requestBody.key
     And match $.value == requestBody.value
@@ -65,6 +66,7 @@ Feature: Create Value
     When method post
     Then status 400
 
+    And match response != failExpected
     And match response contains failExpected
 
     And print "[Feature] [@FailCreateValue] : ", response
