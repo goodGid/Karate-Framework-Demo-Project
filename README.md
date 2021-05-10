@@ -48,6 +48,8 @@
 
 ## Reference
 
+* [Karate Framework을 사용해 시나리오 테스트(Scenario Test)를 작성해보자 !](https://goodgid.github.io/Karate-Scenario-Test-Automation-Framework/)
+
 * [karate github](https://github.com/intuit/karate)
 
 * [hello-karate](https://github.com/Sdaas/hello-karate)
