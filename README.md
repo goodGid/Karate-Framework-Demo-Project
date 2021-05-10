@@ -62,4 +62,7 @@
 
 * [karate github](https://github.com/intuit/karate)
 
+* [karate/karate-demo](https://github.com/intuit/karate/tree/master/karate-demo)
+
 * [hello-karate](https://github.com/Sdaas/hello-karate)
+
