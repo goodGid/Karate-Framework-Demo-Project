@@ -19,6 +19,14 @@
 * Gradle
 
 
+## If you newbie
+
+* You can learn how to use Karate by reading the text in the appropriate language.
+
+1. [[KO] Karate Framework을 사용해 시나리오 테스트(Scenario Test)를 작성해보자 !](https://goodgid.github.io/Karate-Scenario-Test-Automation-Framework/)
+
+2. [[EN] Let's write a scenario test using the Karate Framework !](https://goodgid.github.io/EN-Karate-Scenario-Test-Automation-Framework/)
+
 
 ## Usage
 
@@ -49,6 +57,8 @@
 ## Reference
 
 * [Karate Framework을 사용해 시나리오 테스트(Scenario Test)를 작성해보자 !](https://goodgid.github.io/Karate-Scenario-Test-Automation-Framework/)
+
+* [Let's write a scenario test using the Karate Framework !](https://goodgid.github.io/EN-Karate-Scenario-Test-Automation-Framework/)
 
 * [karate github](https://github.com/intuit/karate)
 
