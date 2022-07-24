@@ -16,7 +16,7 @@
 
 * Junit 5
 
-* Gradle
+* Gradle 6.8.3
 
 
 ## If you newbie
